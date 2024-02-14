@@ -1,0 +1,6 @@
+a=10
+b=20
+print(b)
+del b
+print(a)
+print(b)
